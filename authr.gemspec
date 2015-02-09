@@ -9,12 +9,12 @@ Gem::Specification.new do |s|
   s.version     = Authr::VERSION
   s.authors     = ["Jiri Kolarik"]
   s.email       = ["jiri.kolarik@wereinhq.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Authr."
-  s.description = "TODO: Description of Authr."
+  s.homepage    = "https://wereinhq.com"
+  s.summary     = "Plug and play mountable engine for user authenthication."
+  s.description = "Mountable engine with user management and authenthication in your API."
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 4.2.0"
