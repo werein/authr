@@ -6,6 +6,7 @@ PATH
       devise
       rails (~> 4.2.0)
       responders (~> 2.1)
+      simple_token_authentication
 
 GEM
   remote: https://rubygems.org/
@@ -107,6 +108,10 @@ GEM
     rake (10.4.2)
     responders (2.1.0)
       railties (>= 4.2.0, < 5)
+    simple_token_authentication (1.7.0)
+      actionmailer (>= 3.2.6, < 5)
+      actionpack (>= 3.2.6, < 5)
+      devise (~> 3.2)
     sprockets (2.12.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
