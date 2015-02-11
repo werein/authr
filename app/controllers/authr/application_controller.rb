@@ -1,4 +1,4 @@
 module Authr
-  class ApplicationController < ActionController::Base
+  class ApplicationController < Authr.parent_controller.constantize
   end
 end
