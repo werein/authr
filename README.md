@@ -1,5 +1,5 @@
 # Authr
 
-[![Build Status](https://travis-ci.org/werein/blogy.svg)](https://travis-ci.org/werein/blogy)  [![Code Climate](https://codeclimate.com/github/werein/blogy/badges/gpa.svg)](https://codeclimate.com/github/werein/blogy) [![Test coverage](https://codeclimate.com/github/werein/blogy/badges/coverage.svg)](https://codeclimate.com/github/werein/blogy) [![Version](https://badge.fury.io/rb/blogy.svg)](https://badge.fury.io/rb/blogy) [![Dependencies](https://gemnasium.com/werein/blogy.svg)](https://gemnasium.com/werein/blogy)
+[![Build Status](https://travis-ci.org/werein/authr.svg)](https://travis-ci.org/werein/authr)  [![Code Climate](https://codeclimate.com/github/werein/authr/badges/gpa.svg)](https://codeclimate.com/github/werein/authr) [![Test coverage](https://codeclimate.com/github/werein/authr/badges/coverage.svg)](https://codeclimate.com/github/werein/authr) [![Version](https://badge.fury.io/rb/authr.svg)](https://badge.fury.io/rb/authr) [![Dependencies](https://gemnasium.com/werein/authr.svg)](https://gemnasium.com/werein/authr)
 
 Plug and play mountable engine for user authentication.
