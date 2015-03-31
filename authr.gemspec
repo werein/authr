@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Jiri Kolarik"]
   s.email       = ["jiri.kolarik@wereinhq.com"]
   s.homepage    = "https://wereinhq.com"
-  s.summary     = "Plug and play mountable engine for user authenthication."
-  s.description = "Mountable engine with user management and authenthication in your API."
+  s.summary     = "Plug and play mountable engine for user authentication."
+  s.description = "Mountable engine with user management and authentication in your API."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
