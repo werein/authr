@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    authr (0.1.0)
+    authr (0.1.1)
       active_model_serializers (~> 0.8.2)
       devise
       rails (~> 4.2.0)
@@ -108,7 +108,7 @@ GEM
     rake (10.4.2)
     responders (2.1.0)
       railties (>= 4.2.0, < 5)
-    simple_token_authentication (1.7.0)
+    simple_token_authentication (1.8.0)
       actionmailer (>= 3.2.6, < 5)
       actionpack (>= 3.2.6, < 5)
       devise (~> 3.2)
